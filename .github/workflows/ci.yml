@@ -74,7 +74,6 @@ jobs:
    name: 💻 Frontend - Build and Push Docker Image
    runs-on: ubuntu-latest
    steps:
-on:
      - name: Checkout code
        uses: actions/checkout@v3
 
